@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11925" started-at="२०१८-०४-२४T११:२२:५२Z" finished-at="२०१८-०४-२४T११:२३:०४Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11925" started-at="२०१८-०४-२४T११:२२:५२Z" finished-at="२०१८-०४-२४T११:२३:०४Z">
+      <class name="SeleniumSingleton.PageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumSingleton.PageTest@2a5ca609]" name="setUp" is-config="true" duration-ms="9484" started-at="२०१८-०४-२४T११:२२:५२Z" finished-at="२०१८-०४-२४T११:२३:०२Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:SeleniumSingleton.PageTest@2a5ca609]" name="testMethod" duration-ms="1439" started-at="२०१८-०४-२४T११:२३:०२Z" finished-at="२०१८-०४-२४T११:२३:०३Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumSingleton.PageTest@2a5ca609]" name="tearDown" is-config="true" duration-ms="950" started-at="२०१८-०४-२४T११:२३:०३Z" finished-at="२०१८-०४-२४T११:२३:०४Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumSingleton.PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
